@@ -2,8 +2,8 @@
 	"private": true,
 	"type": "module",
 	
-	"name": "aterbot",
-	"version": "0.0.0",
+	"name": "negrbot",
+	"version": "1.16.5",
 	
 	"scripts": {
 		"start": "tsx ./src/index.ts",
